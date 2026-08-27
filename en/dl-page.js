@@ -6,7 +6,7 @@ function getStrTimeStamp(isoDate) {
 }
 
 function getFile() {
-    fetch("https://gist.githubusercontent.com/keatsoo/82b307863b2d798b585f5dfe8f714674/raw")
+    fetch("../progress.json")
         .then((res) => {
             return res.json();
         }).then((data) => {

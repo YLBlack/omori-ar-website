@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: OMORI_GAME2;
-    src: url("fonts/OMORI_GAME2.woff2");
+    src: url("fonts/OMORI_GAME2.ttf");
 }
 
 a:link:not(.navbar-link) {

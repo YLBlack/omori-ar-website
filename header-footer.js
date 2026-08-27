@@ -1,12 +1,16 @@
 let footer = `
 <div id="footer-div">
     <p id="footer-socials">
-        <a href="https://discord.gg/hUV8kxXz3w"><img class="social-img"
+        <a href="https://discord.com/invite/hUV8kxXz3w"><img class="social-img"
                 src="../img/immutable/discord-logo-white.png" alt="Discord"></a>
-        <a href="https://twitter.com/ArabicOmori"><img class="social-img"
+        <a href="https://x.com/ArabicOmori"><img class="social-img"
                 src="../img/immutable/twitter_logo.svg"
                 style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(98deg) brightness(104%) contrast(101%);"
-                alt="Twitter"></a>
+                alt="ArabicOmori on X"></a>
+        <a href="https://x.com/B_L_M3"><img class="social-img"
+                src="../img/immutable/twitter_logo.svg"
+                style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(98deg) brightness(104%) contrast(101%);"
+                alt="B_L_M3 on X"></a>
     </p>
     <p class="disclaimer-text">كل العلامات التجارية وأسماء الأشخاص، والمواضع، والأشياء موجودين في هذا الموقع
         لمالكه الشرعي (OMOCAT, LLC). هذه الترجمة غير رسمية، وغير ربحية، لأننا لسنا منتسبين مع (OMOCAT, LLC).
