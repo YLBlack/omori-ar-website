@@ -12,9 +12,9 @@ let footer = `
                 style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(98deg) brightness(104%) contrast(101%);"
                 alt="B_L_M3 on X"></a>
     </p>
-    <p class="disclaimer-text">كل العلامات التجارية وأسماء الأشخاص، والمواضع، والأشياء موجودين في هذا الموقع
-        لمالكه الشرعي (OMOCAT, LLC). هذه الترجمة غير رسمية، وغير ربحية، لأننا لسنا منتسبين مع (OMOCAT, LLC).
-        إذا أراد صاحب الملكية الفكرية لمالكة OMORI (أوموري) أن يتواصل معنا، ها هو العنوان البريد الإلكتروني
+    <p class="disclaimer-text">جميع العلامات التجارية وأسماء الشخصيات والأماكن والأشياء الواردة في هذا الموقع
+        مملوكة لمالكها الشرعي (OMOCAT, LLC). هذه الترجمة غير رسمية وغير ربحية، ولسنا منتسبين إلى (OMOCAT, LLC).
+        وإذا أراد مالك الملكية الفكرية للعبة OMORI (أوموري) التواصل معنا، فهذا هو عنوان البريد الإلكتروني
         الخاص بالفريق: <a href="mailto:omori.arabic@gmail.com">omori.arabic@gmail.com</a></p>
     <p class="disclaimer-text">All trademarks, character's names, places, or objects belong to their
         rightful owner (OMOCAT, LLC). This translation is completely non-official and non-profit as we are
