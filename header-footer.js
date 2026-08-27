@@ -26,22 +26,22 @@ document.getElementById("footer-container").innerHTML = footer
 let header_ar = `
 <div id="navbar-div">
     <ol id="navbar-ol">
-        <li class="navbar-li"><a href="index" class="navbar-link">الرئيسية</a></li>
-        <li class="navbar-li"><a href="team" class="navbar-link">المترجمين</a></li>
-        <li class="navbar-li"><a href="download" class="navbar-link">التحميل</a></li>
-        <li class="navbar-li"><a href="faq" class="navbar-link">الأسئلة الشائعة</a></li>
-        <li class="navbar-li"><a href="legal" class="navbar-link">القانوني</a></li>
+        <li class="navbar-li"><a href="index.html" class="navbar-link">الرئيسية</a></li>
+        <li class="navbar-li"><a href="team.html" class="navbar-link">المترجمين</a></li>
+        <li class="navbar-li"><a href="download.html" class="navbar-link">التحميل</a></li>
+        <li class="navbar-li"><a href="faq.html" class="navbar-link">الأسئلة الشائعة</a></li>
+        <li class="navbar-li"><a href="legal.html" class="navbar-link">القانوني</a></li>
     </ol>
 </div>
 `
 let header_en = `
 <div id="navbar-div">
     <ol id="navbar-ol">
-        <li class="navbar-li"><a href="index" class="navbar-link">THE MAIN PAGE</a></li>
-        <li class="navbar-li"><a href="team" class="navbar-link">THE TEAM</a></li>
-        <li class="navbar-li"><a href="download" class="navbar-link">DOWNLOAD</a></li>
-        <li class="navbar-li"><a href="faq" class="navbar-link">FAQ</a></li>
-        <li class="navbar-li"><a href="legal" class="navbar-link">LEGAL</a></li>
+        <li class="navbar-li"><a href="index.html" class="navbar-link">THE MAIN PAGE</a></li>
+        <li class="navbar-li"><a href="team.html" class="navbar-link">THE TEAM</a></li>
+        <li class="navbar-li"><a href="download.html" class="navbar-link">DOWNLOAD</a></li>
+        <li class="navbar-li"><a href="faq.html" class="navbar-link">FAQ</a></li>
+        <li class="navbar-li"><a href="legal.html" class="navbar-link">LEGAL</a></li>
     </ol>
 </div>
 `
