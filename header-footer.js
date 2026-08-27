@@ -21,7 +21,7 @@ let footer = `
         not associated in any way to OMOCAT, LLC. If the owner of the intellectual property of the brand
         OMORI wants to contact us, here is the team's e-mail address: <a
             href="mailto:omori.arabic@gmail.com">omori.arabic@gmail.com</a></p>
-    <p class="disclaimer-text">Website made by kitsou with help from MAZ.</p>
+    <p class="disclaimer-text">Website made by kitsou with help from MAZ. Edited and improved by Black.</p>
 </div>
 `
 
@@ -31,10 +31,10 @@ let header_ar = `
 <div id="navbar-div">
     <ol id="navbar-ol">
         <li class="navbar-li"><a href="index.html" class="navbar-link">الرئيسية</a></li>
-        <li class="navbar-li"><a href="team.html" class="navbar-link">المترجمين</a></li>
+        <li class="navbar-li"><a href="team.html" class="navbar-link">المترجمون</a></li>
         <li class="navbar-li"><a href="download.html" class="navbar-link">التحميل</a></li>
         <li class="navbar-li"><a href="faq.html" class="navbar-link">الأسئلة الشائعة</a></li>
-        <li class="navbar-li"><a href="legal.html" class="navbar-link">القانوني</a></li>
+        <li class="navbar-li"><a href="legal.html" class="navbar-link">الشؤون القانونية</a></li>
     </ol>
 </div>
 `
