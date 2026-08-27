@@ -21,7 +21,8 @@ let footer = `
         not associated in any way to OMOCAT, LLC. If the owner of the intellectual property of the brand
         OMORI wants to contact us, here is the team's e-mail address: <a
             href="mailto:omori.arabic@gmail.com">omori.arabic@gmail.com</a></p>
-    <p class="disclaimer-text">Website made by kitsou with help from MAZ. Edited and improved by Black.</p>
+    <p class="disclaimer-text">Website made by kitsou with help from MAZ.
+    Edited and improved by Black.</p>
 </div>
 `
 
