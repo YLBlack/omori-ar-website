@@ -1,0 +1,43 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+#footer-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    background-color: black;
+    margin-top: 10pt;
+    margin-bottom: 13pt;
+}
+
+#footer-div {
+    width: 90%;
+    border: 3px white solid;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding-bottom: 7pt;
+    text-align: center;
+}
+
+.social-img {
+    width: 20pt;
+    height: auto;
+}
+
+.disclaimer-text {
+    margin-top: 0px;
+    margin-left: 15pt;
+    margin-right: 15pt;
+}

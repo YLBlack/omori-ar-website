@@ -1,0 +1,82 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@font-face {
+    font-family: OMORI_GAME2;
+    src: url("fonts/OMORI_GAME2.woff2");
+}
+
+a:link:not(.navbar-link) {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:visited:not(.navbar-link) {
+  color: #c9b800;
+  text-decoration: none;
+}
+
+a:hover:not(.navbar-link) {
+  color: #d9e16d;
+  text-decoration: none;
+}
+
+a:active:not(.navbar-link) {
+  color: yellow;
+  text-decoration: underline;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: OMORI_GAME2;
+    font-size: 17pt;
+}
+
+#main-content-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    background-color: black;
+    margin-top: 10pt;
+}
+
+#main-div {
+    width: 90%;
+    border: 3px white solid;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding-bottom: 7pt;
+    text-align: center;
+}
+
+.main-div-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex:1;
+        -ms-flex:1;
+            flex:1;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-left: 15pt;
+    margin-right: 15pt;
+}
+
+h1 {
+    margin-bottom: 10pt;
+    margin-top: 15pt;
+}

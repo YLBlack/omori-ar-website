@@ -1,0 +1,9 @@
+<script>
+    const usrLang = (navigator.language || navigator.userLanguage).substr(0, 2);
+
+    if (usrLang == 'en') {
+        window.location.href = "/en/index"
+    } else {
+        window.location.href = "/ar/index"
+    }
+</script>

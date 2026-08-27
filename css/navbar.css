@@ -1,0 +1,91 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+#navbar-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    background-color: black;
+}
+    
+.navbar-li {
+    display: inline;
+    -webkit-transition: 0.5s background-color ease-in-out;
+    -o-transition: 0.5s background-color ease-in-out;
+    transition: 0.5s background-color ease-in-out;
+    padding-inline: 3pt;
+    list-style: none;
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: white;
+    -webkit-transition: 0.5s color ease-in-out;
+    -o-transition: 0.5s color ease-in-out;
+    transition: 0.5s color ease-in-out;
+}
+
+.navbar-link:hover {
+    color:darkorchid;
+}
+
+#logo-container {
+    width:100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+            
+    justify-content: center;
+}
+
+/* #logo-image-link {
+    
+} */
+
+#logo-img {
+    max-width:100%;
+    height: auto;
+}
+
+#navbar-div {
+    width: 90%;
+    border: white 3px solid;
+}
+
+#navbar-ol {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    padding:0px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+.navbar-li-content {
+    padding: 14px;
+    border: white 3px solid;
+    text-align: center;
+    padding-inline: 30pt;
+}
+
+#flag-img {
+    width: 5vh;
+    border: 3px solid white;
+}
+
+#change-language {
+    position: absolute;
+    right: 10%;
+}

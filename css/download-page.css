@@ -1,0 +1,56 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+:root{
+    --error-bg-color: black;
+}
+
+#percentage-counter {
+    font-size: 6em;
+    color:blueviolet;
+}
+
+#error-container {
+    -webkit-box-flex:1;
+        -ms-flex:1;
+            flex:1;
+    background-color: var(--error-bg-color);
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+    text-align: justify;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1em;
+    border: white 3px solid;
+}
+
+#error-message {
+    -webkit-box-flex:1;
+        -ms-flex:1;
+            flex:1;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+#error-title {
+    font-size: 2.7em;
+    font-weight:600;
+    display: inline;
+}
+
+#error-img {
+    float: left;
+    max-height: 5em;
+    border-radius: 0.5em;
+    margin-right: 0.5em;
+}
+
+#error-content {
+    text-align: justify;
+}
