@@ -61,13 +61,15 @@
 
 - 🎮 [صفحة اللعبة على Steam](https://store.steampowered.com/app/1150690/OMORI/)
 - 💬 [Discord السيرفر](https://discord.com/invite/hUV8kxXz3w)
+- 🐦 [حسابي الشخصي على X](https://x.com/B_L_M3)
 - 🐦 [حساب المشروع على X](https://x.com/ArabicOmori)
 - 📦 [إصدارات التعريب (Releases)](https://github.com/YLBlack/omori-ar-website/releases)
 
 ---
 
 ## 📸 معاينة (Preview)
-![Preview](./assets/preview.png)
+![Preview](./EN.png)
+![Preview](./AR.png)
 
 ---
 
